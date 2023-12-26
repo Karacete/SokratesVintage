@@ -1,0 +1,25 @@
+﻿@using SokratesVintageProject.Models.Entities
+@model List<Urun>
+@{
+    ViewData["Title"] = "Yağmurluk Modelleri";
+}
+<link rel="stylesheet" href="~/css/urun.css" asp-append-version="true" />
+<br />
+<h3 style="text-align:center">@ViewData["Title"]</h3>
+<br />
+@await Html.PartialAsync("_UrunYerlesimiPartialView")
+<div class="urun">
+    @foreach (var urun in Model)
+    {
+        @if (urun.UrunKategori == 7)
+        {
+            <div class="card" style="width: 18rem;">
+                <img src="@urun.UrunFotograf" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">@urun.UrunAd</h5>
+                    <p class="card-text">@urun.UrunFiyat &#x20BA;</p>
+                    @await Html.PartialAsync("_ButtonPartialView")
+                </div>
+            </div>
+        }
+    }

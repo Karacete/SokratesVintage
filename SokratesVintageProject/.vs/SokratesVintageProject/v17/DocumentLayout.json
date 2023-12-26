@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muham\\source\\repos\\SokratesVintageProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD87A1E0-3813-437E-A500-678A6E0CE58A}|SokratesVintageProject\\SokratesVintageProject.csproj|c:\\users\\muham\\source\\repos\\sokratesvintageproject\\sokratesvintageproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD87A1E0-3813-437E-A500-678A6E0CE58A}|SokratesVintageProject\\SokratesVintageProject.csproj|solutionrelative:sokratesvintageproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD87A1E0-3813-437E-A500-678A6E0CE58A}|SokratesVintageProject\\SokratesVintageProject.csproj|c:\\users\\muham\\source\\repos\\sokratesvintageproject\\sokratesvintageproject\\views\\giris\\girisyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD87A1E0-3813-437E-A500-678A6E0CE58A}|SokratesVintageProject\\SokratesVintageProject.csproj|solutionrelative:sokratesvintageproject\\views\\giris\\girisyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD87A1E0-3813-437E-A500-678A6E0CE58A}|SokratesVintageProject\\SokratesVintageProject.csproj|c:\\users\\muham\\source\\repos\\sokratesvintageproject\\sokratesvintageproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD87A1E0-3813-437E-A500-678A6E0CE58A}|SokratesVintageProject\\SokratesVintageProject.csproj|solutionrelative:sokratesvintageproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD87A1E0-3813-437E-A500-678A6E0CE58A}|SokratesVintageProject\\SokratesVintageProject.csproj|c:\\users\\muham\\source\\repos\\sokratesvintageproject\\sokratesvintageproject\\controllers\\giriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD87A1E0-3813-437E-A500-678A6E0CE58A}|SokratesVintageProject\\SokratesVintageProject.csproj|solutionrelative:sokratesvintageproject\\controllers\\giriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 224,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\SokratesVintageProject\\SokratesVintageProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SokratesVintageProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\SokratesVintageProject\\SokratesVintageProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SokratesVintageProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-26T15:48:08.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\SokratesVintageProject\\SokratesVintageProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SokratesVintageProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\SokratesVintageProject\\SokratesVintageProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SokratesVintageProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-26T15:44:35.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GirisController.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\SokratesVintageProject\\SokratesVintageProject\\Controllers\\GirisController.cs",
+              "RelativeDocumentMoniker": "SokratesVintageProject\\Controllers\\GirisController.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\SokratesVintageProject\\SokratesVintageProject\\Controllers\\GirisController.cs",
+              "RelativeToolTip": "SokratesVintageProject\\Controllers\\GirisController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA/wBgAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T15:42:09.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GirisYap.cshtml",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\SokratesVintageProject\\SokratesVintageProject\\Views\\Giris\\GirisYap.cshtml",
+              "RelativeDocumentMoniker": "SokratesVintageProject\\Views\\Giris\\GirisYap.cshtml",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\SokratesVintageProject\\SokratesVintageProject\\Views\\Giris\\GirisYap.cshtml",
+              "RelativeToolTip": "SokratesVintageProject\\Views\\Giris\\GirisYap.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-26T15:42:03.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

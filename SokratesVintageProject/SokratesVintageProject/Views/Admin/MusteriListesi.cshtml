@@ -1,0 +1,63 @@
+﻿@using SokratesVintageProject.Models.Entities
+@model SokratesVintageProject.Models.MusteriModel
+
+@{
+    ViewData["Title"] = "Admin-MüşteriListesi";
+    //Layout = "/Views/Admin/Shared/_AdminPageLayout.cshtml";
+    //Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+    
+    <style>
+        td{
+            text-align:center;
+        }
+    </style>
+<body>
+    <table class="table table-bordered mt-3">
+        <tr>
+            <th>Müşteri ID</th>
+            <th>Müşteri İsim</th>
+            <th>Müşteri Soyisim</th>
+            <th>Müşteri Telefon Numara</th>
+        </tr>
+        @foreach (var musteri in Model.Musteri)
+        {
+            <tr>
+                <td>@musteri.MusteriId</td>
+                <td>@musteri.MusteriAd</td>
+                <td>@musteri.MusteriSoyad</td>
+                <td>@musteri.MusteriTelefonNumara</td>
+            </tr>
+        }
+
+
+        <form asp-controller="Admin" asp-action="MusteriListesi" method="post">
+        <tr>
+            <td colspan="4">
+                <div class="form-outline mb-4">
+                    <label class="form-label" for="TelefonNumara">Silmek İstediğin Müşterinin Id Numarasını Gir</label>
+                    <input type="number" id="form2Example18" class="form-control form-control-lg" asp-for="MsId" />
+                </div>
+            </td>
+        <tr />
+        <tr>
+            <td colspan="2">
+                <div class="pt-1 mb-4">
+                    <button class="btn btn-primary">Sil</button>
+                </div>
+            </td>
+            </form>
+
+            <td colspan="2">
+                <div class="pt-1 mb-4">
+                    <a class="btn btn-primary" asp-controller="Admin" asp-action="UrunListesi">Ürün Tablosu</a>
+                </div>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

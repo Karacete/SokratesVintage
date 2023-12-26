@@ -1,0 +1,28 @@
+﻿@using SokratesVintageProject.Models.Entities;
+@model List<Urun>
+@{
+    ViewData["Title"] = "AnaSayfa";
+}
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" ,href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/urun.css" asp-append-version="true" />
+</head>
+@await Html.PartialAsync("_UrunYerlesimiPartialView")
+<div class="text-center" style="padding:50px;">
+    <img src="css/resimler/sokrates-logo.jpg" class="img-fluid" alt="Logo">
+</div>
+<div class="urun">
+    @foreach (var urun in Model)
+    {  
+        <div class="card" style="width: 18rem;">
+            <img src="@urun.UrunFotograf" class="card-img-top" alt=" ">
+            <div class="card-body">
+                <h5 class="card-title">@urun.UrunAd</h5>
+                <p class="card-text">@urun.UrunFiyat &#x20BA;</p>
+                @await Html.PartialAsync("_ButtonPartialView")
+            </div>
+        </div>
+    }
+</div>

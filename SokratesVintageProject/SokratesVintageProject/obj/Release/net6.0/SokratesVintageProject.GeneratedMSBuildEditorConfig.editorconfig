@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SokratesVintageProject
+build_property.RootNamespace = SokratesVintageProject
+build_property.ProjectDir = C:\Users\muham\source\repos\SokratesVintageProject\SokratesVintageProject\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\muham\source\repos\SokratesVintageProject\SokratesVintageProject
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/Admin/MusteriListesi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTXVzdGVyaUxpc3Rlc2kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/CeketveMont/Deri.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VrZXR2ZU1vbnRcRGVyaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/CeketveMont/EsofmanUstu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VrZXR2ZU1vbnRcRXNvZm1hblVzdHUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/CeketveMont/Kurk.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VrZXR2ZU1vbnRcS3Vyay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/CeketveMont/Mevsimlik.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VrZXR2ZU1vbnRcTWV2c2ltbGlrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/CeketveMont/Mont.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VrZXR2ZU1vbnRcTW9udC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/CeketveMont/Yagmurluk.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VrZXR2ZU1vbnRcWWFnbXVybHVrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/Giris/GirisYap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lyaXNcR2lyaXNZYXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/Giris/KayitOl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lyaXNcS2F5aXRPbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/Gomlek/Gomlek.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29tbGVrXEdvbWxlay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/KazakGrubu/Kazak.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F6YWtHcnVidVxLYXphay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/KazakGrubu/Sweatshirt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F6YWtHcnVidVxTd2VhdHNoaXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/Shared/_AdminPageLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pblBhZ2VMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/Shared/_ButtonPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CdXR0b25QYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/Shared/_UrunYerlesimiPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9VcnVuWWVybGVzaW1pUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/YazGrubu/Sort.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6R3J1YnVcU29ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/YazGrubu/Tisort.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6R3J1YnVcVGlzb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muham/source/repos/SokratesVintageProject/SokratesVintageProject/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mtxea9ku97
